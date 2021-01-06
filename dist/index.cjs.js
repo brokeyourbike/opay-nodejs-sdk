@@ -451,7 +451,7 @@ for (let endpoint in endpoints) {
 
 var OPay_1 = OPay;
 
-OPay_1.prototype.version = '1.0.2';
+OPay_1.prototype.version = '1.0.4';
 
 var opayNodejsSdk = OPay_1;
 
