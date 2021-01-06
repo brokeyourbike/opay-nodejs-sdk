@@ -6,7 +6,7 @@
   "module": "dist/index.esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brokeyourbike/opay-nodejs-sdk"
+    "url": "git+https://github.com/brokeyourbike/opay-nodejs-sdk.git"
   },
   "author": "Ivan Stasiuk <brokeyourbike@gmail.com>",
   "license": "MIT",
