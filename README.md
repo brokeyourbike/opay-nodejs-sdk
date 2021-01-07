@@ -1,5 +1,10 @@
 # OPay NodeJS SDK
 
+![dependencies](https://img.shields.io/librariesio/release/npm/@brokeyourbike/opay-node)
+[![downloads](https://img.shields.io/npm/dy/@brokeyourbike/opay-node)](https://www.npmjs.com/package/@brokeyourbike/opay-node)
+[![install size](https://packagephobia.com/badge?p=@brokeyourbike/opay-node)](https://packagephobia.com/result?p=@brokeyourbike/opay-node)
+[![license](https://img.shields.io/github/license/brokeyourbike/opay-nodejs-sdk)](https://github.com/brokeyourbike/opay-nodejs-sdk/blob/master/LICENSE)
+
 This NodeJS SDK makes it easy to integrate your applications & interact with the [OPay](https://opayweb.com) APIs.
 
 ## Introduction
